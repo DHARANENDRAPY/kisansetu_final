@@ -1,0 +1,2 @@
+D:\KISANSETU\kisansetu.client\obj\Release\kisansetu.client.esproj.CoreCompileInputs.cache
+D:\FINAL_YEAR_PROJECT\KISANSETU\kisansetu.client\obj\Release\kisansetu.client.esproj.CoreCompileInputs.cache
